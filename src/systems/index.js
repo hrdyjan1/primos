@@ -2,5 +2,6 @@
 import MoveFinger from './MoveFinger';
 import TapFinger from './TapFinger';
 import Controls from './Controls';
+import Physics from './Physics';
 
-export { MoveFinger, Controls, TapFinger };
+export { MoveFinger, Controls, TapFinger, Physics };
